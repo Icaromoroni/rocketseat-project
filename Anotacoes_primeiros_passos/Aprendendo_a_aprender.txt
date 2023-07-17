@@ -1,0 +1,142 @@
+Reprogramar
+
+    Planejar
+        - Vizualizar um objetivo - para onde quero ir
+            - Nesse curso do discover da rocketseat meu objetivo e
+              concluir os desafios que serão propostos essa será
+              minha direção.
+        - Direção != Velocidade
+            - A direção é diferente de velocidade, o projeto será no
+              ritimo que eu puder realizar. Nessa parte de direcionamento
+              preciso manter o foco na clareza para resolver o problema, preciso detalhar
+              o algoritimo para a resolução do problema.
+              Sendo assim minha velocidade com o tempo aumentará.
+        - Ajuste de expectativa
+            - Aqui devo definir metas de termino para a resolução dos problemas,
+              por exemplo definir o termino de um projeto em uma semana, para isso
+              devo focar na seção abaixo.
+    
+    Organizar
+        Aqui é onde preciso colocar os pés no chão e ver se meu planejamento e minhas
+        expectativas estão corretas.
+
+        se eu tenho uma hora durante 7 dias então vou estar dedicando 7 horas por semana
+        a um projeto.
+
+        se um projeto é estudar 4 horas de video aula a dica do mikão é triplicar a hora de
+        dedicação a esse projeto, ou seja, devo aplicar 12 horas para o projeto de estudar,
+        sendo que so tenho uma hora por dia para fazer isso, então significa que será necessario
+        12 dias para realizar o projeto.
+
+        isso é um exemplo de como ajustar minhas expectativas com o meu planejamento.
+
+
+        sendo assim preciso criar um
+        
+        Cronograma
+            - Agenda
+                - Preciso definir como será minha agenda para cumprir o compromisso.
+                - Quais dias definir para fazer cada tarefa do algoritimo.
+            - horarios
+                - Quais horarios e quanto tempo devo dedicar para realizar cada tarefa passo do algoritimo.
+
+    Agora quais as tecnicar de como conseguir fazer as horas de estudo corretamente
+
+    Agora é entender o que é
+
+    Aprender
+        - conceitos
+            entender o
+            - Processo - Como o cérebro aprende?
+                1 - Conhecimento
+                    - recebe um conhecimento novo
+                2 - Reconhecimento
+                    - precisa fazer o reconhecimento disso, ou seja ver o novo conhecimento
+                    varias vezes.
+                3 - Solidificação
+                    - a solidifição precisa de tempo praticando varias vezes e por repetição
+            - Passivo e ativo
+                - assitir, ler e ouvir
+                    é uma maneira de aprendizagem passiva, somente ler, assitir ou ouvir
+                    não traz movimento ou atividade por isso é passiva, mas detro desse contexto
+                    pode-se fazer coisas aprendidas ativamento, ou seja, dar movimento ao que está
+                    aprendendo.
+                - Metodologia "PARE"
+                    - P - Perguntar
+                        Ao assitir, ler ou ouvir algo será que você consegue se questionar se faz sentido,
+                        como faz sentido? você pesquisa mais afundo sobre a variação de conteudo que você
+                        esta ouvindo, lendo ou assistindo?
+                        se a resposta for sim, parabéns você já esta com um passo a frente de quem somente
+                        estuda lendo, assistindo e ouvindo, mas é necessario tambem fazer o passo abaixo
+                    - A - Anotar
+                        Anotar respostas para seus questionamento, desenhar e criar mapas mentais sobre
+                        o que esta estudando vai trazer maior clareza e visão de possibilidades de resolver
+                        o problema
+                    - R - Revisar
+                        É sozinho você revisar e reforçar os seus conhecimentos, revizar vai solidificar,
+                        pois voce vai estar fazendo o reconhecimento do conhecimento novo recebido.
+                        conhecimento
+                    - E - Explicar
+                        É debater, defender um ponto e argumentar.
+                        Se você é capaz de fazer essas coisa com alguem sobre o assunto estudado com certeza
+                        voce aprendeu, entendeu ou esta aprendendo com eficiência
+                
+                Após isso pare, é necessario uma pausa para o cerebro assimilar tudo o que foi aprendido
+        - Na Prática
+            - Criar videos
+            - Audios
+            - Escrever artigos
+            - Participe de debates
+            - Grupos, fóruns
+            - Pesquise
+            - Resolver desafios
+
+    Estudar
+        Assitir o video sobre na video aula que ele diz sobre foco, disciplina, motivação, dopamina
+        que são coisas importantes durante os estudos
+        - foco
+        - motivação
+        - horario
+        - descanso
+        - saúde
+
+    Técnicas
+        Na programação não se aplica a memorização, o que deve se aplicar é o processamento de informações
+        e isso vem por meio de estudos continuos e aplicados.
+        
+        As tecnicas abaixo é para que seja possivel manter o foco e reter informações ao estudar
+        - Pomodoro
+            25 min - sem interrupção
+                - o que fazer durante esse tempo?
+                    - Colocar no alarme para despertar em 25 min
+                    - Eliminar distrações externas como celular, abas no navegador
+                    - ao acabar os 25 min ir para a pausa abaixo.
+                    - dica não passe de 50 min com nessa fase.
+            5 min
+                - pausa intencional
+                - fazer qualquer atividade não relacionada a principal, como olhar instagram, face, jogar.
+                - mas o tempo maximo para essa pausa deve ser no maximo 5 min, mater a disciplina nisso.
+            4 vezes
+                - fazer o processo acima por 4 vezes, na 4° vez e ultima a pausa deve ser de 15 min.
+
+        - Lozanov
+            Essa técnica pode se fazer um combo com a tecnica do pomodoro e usa-se
+            - música de fundo enquanto estuda, pois isso ativa a parte criativa do cérebro.
+            - a musica deve ser sem vóz
+            - deve ter frequencia de 60 -70 bpm
+                - música classica(barroca) ou lo-fi
+        - Feymann
+            1. Estudar assunto
+            2. Explicar assunto para uma pessoa da 5° série que ainda nao entenda, ou escreva explicando,
+            ou gravar audio, tudo isso sobre o assunto que voce esta estudando para que você veja se realmente
+            esta aprendendo.
+            3. Identificar falha e palavras que não faz muito sentido.
+            4. Simplifica, melhora e volta a estudar o assunto.
+        - Active Recall
+            1. assistir, ler ou ouvir
+            2. anotações por
+                - bullets points (é anotar como isso que fiz aqui)
+                - mapas mentais (é como foi feito na video aula)
+                - prints(tirar prints da tela da aula assistida)
+            3. puxar da memória
+                - codar (tentar codar fazendo sozinho puxando da memória)
