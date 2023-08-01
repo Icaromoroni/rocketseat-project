@@ -103,6 +103,10 @@ body * {
   animation: slide-back 0.2s;
 }
 
+#switch button:hover {
+  outline: 8px solid var(--highlight-color);
+}
+
 .light #switch button {
   /* right: 0;
   left: initial; */
