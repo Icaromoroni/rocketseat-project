@@ -38,19 +38,20 @@ body {
   */
   /* Essa linha executa o mesmo que a de cima */
   background: var(--bg-url) no-repeat center/cover;
+  height: 100vh;
 }
 body * {
   font-family: "Inter", sans-serif;
   /* color: #ffffff; */
   color: var(--text-color);
 }
+
 #container {
   /* border: 1px solid white; */
   /* width: 360px; */
   width: 100%;
   max-width: 588px;
   margin: 56px auto 0px;
-
   padding: 0 24px;
 }
 
@@ -194,4 +195,16 @@ footer {
   justify-content: center;
   gap: 5px;
   font-size: 14px;
+}
+
+/* midia queries */
+
+@media (min-width: 700px) {
+  :root {
+    --bg-url: url(./assets/bg-desktop.jpg);
+  }
+
+  .light {
+    --bg-url: url(./assets/bg-desktop-light.jpg);
+  }
 }
